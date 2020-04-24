@@ -3,6 +3,7 @@
  
  ## Setup for Windows/Mac/Linux Standalone (the Not-VR version)
   -Download the [Standalone Application folder](./Standalone-Application)
+  
   -Double-click on Vr-MeditationOrb.exe to run the application
   
  ## Setup for iOS with Google Cardboard
